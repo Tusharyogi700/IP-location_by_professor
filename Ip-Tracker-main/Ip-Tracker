@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Tool Name :- Ip-Tracker
-# Author :- Reyad X Shipu
+# Author :- Professor
 # Date :- 15/04/2023
 
 case "$1" in
